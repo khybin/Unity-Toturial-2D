@@ -337,6 +337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3789339635810683834}
+  - component: {fileID: 6662177323949885568}
   m_Layer: 0
   m_Name: AmongUs
   m_TagString: Untagged
@@ -364,6 +365,19 @@ Transform:
   - {fileID: 461507753331018118}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6662177323949885568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5151362262902953560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afc77d2344b285246bcd94b8868477ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 0
 --- !u!1 &7110729271484087300
 GameObject:
   m_ObjectHideFlags: 0
